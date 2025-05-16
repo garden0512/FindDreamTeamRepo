@@ -1,19 +1,16 @@
 fileFormatVersion: 2
-guid: 472cd2b8146a4da42b752bd8baf58a9a
+guid: dc6510d8b261cf5448c83778dbb198f4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -7320237033199613965
-    second: End_game_0
+      213: 7350993059489540984
+    second: Start_game_0
   - first:
-      213: 1256058041155616491
-    second: End_game_1
+      213: -4743848049258098851
+    second: Start_game_1
   - first:
-      213: -167292210959119092
-    second: End_game_2
-  - first:
-      213: 4918711354412357477
-    second: End_game_3
+      213: 3123974504655924929
+    second: Start_game_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -109,89 +106,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: End_game_0
+      name: Start_game_0
       rect:
         serializedVersion: 2
         x: 1857
-        y: 71
+        y: 294
         width: 45
         height: 65
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 3f74a7cd33b496a90800000000000000
-      internalID: -7320237033199613965
+      spriteID: 87b6c398d39f30660800000000000000
+      internalID: 7350993059489540984
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: End_game_1
+      name: Start_game_1
       rect:
         serializedVersion: 2
         x: 1935
-        y: 57
-        width: 169
-        height: 94
+        y: 276
+        width: 59
+        height: 96
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: bee7a50322a6e6110800000000000000
-      internalID: 1256058041155616491
+      spriteID: d5f8a8b45577a2eb0800000000000000
+      internalID: -4743848049258098851
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: End_game_2
-      rect:
-        serializedVersion: 2
-        x: 2099
-        y: 57
-        width: 29
-        height: 94
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c0d8718de98adadf0800000000000000
-      internalID: -167292210959119092
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: End_game_3
+      name: Start_game_2
       rect:
         serializedVersion: 2
         x: 1857
-        y: 57
-        width: 325
-        height: 94
+        y: 276
+        width: 329
+        height: 96
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 567dd689ae5c24440800000000000000
-      internalID: 4918711354412357477
+      spriteID: 1cea46da2469a5b20800000000000000
+      internalID: 3123974504655924929
       vertices: []
       indices: 
       edges: []
@@ -200,8 +175,8 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 2106f099780844d499e31db2b8ae9380
-    internalID: 0
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
     vertices: []
     indices: 
     edges: []
@@ -210,10 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      End_game_0: -7320237033199613965
-      End_game_1: 1256058041155616491
-      End_game_2: -167292210959119092
-      End_game_3: 4918711354412357477
+      Start_game_0: 7350993059489540984
+      Start_game_1: -4743848049258098851
+      Start_game_2: 3123974504655924929
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

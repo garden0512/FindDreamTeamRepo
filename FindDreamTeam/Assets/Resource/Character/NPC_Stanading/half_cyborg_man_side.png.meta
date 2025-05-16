@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      half_cyborg_man_side_0: 6920529054482630952
+      half_cyborg_man_side_1: -3237367441958171840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

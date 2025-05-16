@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      reward_women_0: 1907729321298578828
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

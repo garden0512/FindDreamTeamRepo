@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chugeok_background_0: -1731977589832285759
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -61,6 +62,17 @@ public class Player : MonoBehaviour
     private void OnJump(InputValue value)
     {
         _isJumping = true;
-        _rigidbody2D.AddForce(new Vector2(inputValueX, jumpForce), ForceMode2D.Impulse);
+        if (!_isJumping)
+        {
+            _rigidbody2D.AddForce(new Vector2(inputValueX, jumpForce), ForceMode2D.Impulse);
+        }
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            _isJumping = false;
+        }
     }
 }

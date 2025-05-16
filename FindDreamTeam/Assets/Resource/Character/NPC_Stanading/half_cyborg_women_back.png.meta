@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      half_cyborg_women_back_0: 8882435025172977708
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Chainsaw_0: 2513086883955787816
+      Chainsaw_1: -2538140158718072904
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

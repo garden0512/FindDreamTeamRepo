@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      chugeok_end_0: 5687079051276053600
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      jail_ironcolumn_0: -5904618951366322673
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

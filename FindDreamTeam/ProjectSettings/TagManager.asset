@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - GoToSchool1
+  - GoToSchool2
+  - GoToSchool3
+  - GoToSchool4
   layers:
   - Default
   - TransparentFX
